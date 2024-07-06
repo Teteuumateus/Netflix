@@ -169,3 +169,7 @@ i {
 #favoritos img {
     width: 196px;
 }
+
+.card {
+    width: 100%;
+}
